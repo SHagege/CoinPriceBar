@@ -6,10 +6,10 @@ Cyptocurrency prices on MacBook Touch Bar.
 
 Supported cryptocurrencies:
 
-- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/btc.png?raw=true" width="16px"/> [Bitcoin](https://support.binance.com/hc/en-us/articles/115000494172)
-- <img src="https://github.com/theantnest/Bitcoin-Cash-Green-Art/blob/master/BCC%20Round%20Icon/BCC%20Round%20Icon%20RGBA%20(128px%20Favicon).png?raw=true" width="16px"/> [Bitcoin Cash](https://support.binance.com/hc/en-us/articles/115000922291)
-- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/eth.png?raw=true" width="16px"/> [Ethereum](https://support.binance.com/hc/en-us/articles/115000499311)
-- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/ltc.png?raw=true" width="16px"/> [Litecoin](https://support.binance.com/hc/en-us/articles/115000499011)
+- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/btc.png?raw=true" width="16px"/> [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/)
+- <img src="https://github.com/theantnest/Bitcoin-Cash-Green-Art/blob/master/BCC%20Round%20Icon/BCC%20Round%20Icon%20RGBA%20(128px%20Favicon).png?raw=true" width="16px"/> [Bitcoin Cash](https://coinmarketcap.com/currencies/bitcoin-cash/)
+- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/eth.png?raw=true" width="16px"/> [Ethereum](https://coinmarketcap.com/currencies/ethereum)
+- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/ltc.png?raw=true" width="16px"/> [Litecoin](https://coinmarketcap.com/currencies/litecoin)
 - <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/xmr.png?raw=true" width="16px"/> [Monero](https://coinmarketcap.com/currencies/monero/)
 - <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/nano.png?raw=true" width="16px"/> [Nano](https://coinmarketcap.com/currencies/nano/)
 
