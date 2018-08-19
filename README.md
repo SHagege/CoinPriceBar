@@ -10,13 +10,16 @@ Supported cryptocurrencies:
 - <img src="https://github.com/theantnest/Bitcoin-Cash-Green-Art/blob/master/BCC%20Round%20Icon/BCC%20Round%20Icon%20RGBA%20(128px%20Favicon).png?raw=true" width="16px"/> [Bitcoin Cash](https://support.binance.com/hc/en-us/articles/115000922291)
 - <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/eth.png?raw=true" width="16px"/> [Ethereum](https://support.binance.com/hc/en-us/articles/115000499311)
 - <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/ltc.png?raw=true" width="16px"/> [Litecoin](https://support.binance.com/hc/en-us/articles/115000499011)
-- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/xrp.png?raw=true" width="16px"/> [Ripple](https://support.binance.com/hc/en-us/articles/115002544232)
-- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/miota.png?raw=true" width="16px"/> [IOTA](https://support.binance.com/hc/en-us/articles/115001835032)
-- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/ada.png?raw=true" width="16px"/> [Cardano](https://support.binance.com/hc/en-us/articles/115003098651)
+- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/xmr.png?raw=true" width="16px"/> [Monero]
+(https://coinmarketcap.com/currencies/monero/)
+- <img src="https://github.com/cjdowner/cryptocurrency-icons/blob/master/128/color/nano.png?raw=true" width="16px"/> [Nano]
+(https://coinmarketcap.com/currencies/nano/)
+
+
 
 Prices are in USD and updated every 15 seconds.
 
-Ripple, IOTA and Cardano prices are calculated by XRP/ETH price from Binance multiplied with ETH price from Coinbase.
+XMR and Nano prices are calculated by XMR/ETH and NANO/ETH price from Binance multiplied with ETH price from Coinbase.
 
 Other prices are spot price in USD from Coinbase.
 
@@ -26,7 +29,7 @@ The app runs in background and can be accessed anywhere by tapping the `₿` ico
 
 ## Download
 
-- [Mac](https://github.com/T-Pham/CoinPriceBar/releases/download/1.5/CoinPriceBar.app.zip)
+- [Mac](https://github.com/SHagege/CoinPriceBar/releases/tag/1.5.1/CoinPriceBar.zip)
 - [Windows](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ![Download](https://img.shields.io/github/downloads/T-Pham/CoinPriceBar/total.svg?style=flat-square&label=&colorA=000000&colorB=000000)
@@ -34,10 +37,6 @@ The app runs in background and can be accessed anywhere by tapping the `₿` ico
 ## Quit the app
 
 The app runs in background and has no visible icon on the dock. To quit the app, please use Activity Monitor, search for the CoinPriceBar process and terminate it.
-
-## "Please support this coin / this currency"
-
-I don't have much spare time as I used to so I am no longer be able to customize the app for you but it is easy to do that on your own. Have a look at the files [Data.swift](CoinPriceBar/Data.swift) and [Money.swift](CoinPriceBar/Money.swift). The code should be self-explained and you should be able to modify it to fit your needs.
 
 ## License
 
